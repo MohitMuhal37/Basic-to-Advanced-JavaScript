@@ -167,4 +167,5 @@ for(let leter of "missippi"){
         freq[leter] = 1;
     }
 }
-console.log(freq)
+console.log(freq);
+console.log("hi new line");
