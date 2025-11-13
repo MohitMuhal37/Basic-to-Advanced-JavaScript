@@ -1,0 +1,28 @@
+body{
+    background: #f4f4f4;
+    font-size: 23px;
+    font-family: monospace;
+}
+
+.container{
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 80%;
+    background-color: #333;
+    padding: 5px 10px;
+    border-radius: 25px;
+}
+
+header h1{
+    text-align: center;
+    background-color: #333;
+    color: #ffffffa0;
+}
+
+h1, .ct{
+    color: rgba(233, 17, 17, 0.861);
+}
+
+header p{
+    color: #f4f4f4;
+}
