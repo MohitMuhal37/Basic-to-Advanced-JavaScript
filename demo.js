@@ -149,6 +149,7 @@ console.log(key);
 for(let val of Object.keys(obj)){
     str += val;
 }
+
 console.log(str)
 
 for(let [val, str] of Object.entries(obj)){
